@@ -7,7 +7,7 @@
         <p>
            This site is dedicated to quantum physics.
         </p>
-        <p><a class="btn btn-default" href=/TheorPage>Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href=/ther>Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
         <h2>Solving compatibility issues</h2>
