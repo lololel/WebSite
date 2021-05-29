@@ -3,11 +3,11 @@
 <div class="row">
     <div class="col-md-4">
         <h2>Learn more about quantum physics</h2>
-        <img src= "static\image\auqntum.png">
+        <img src= "static\image\qunt.png">
         <p>
            This site is dedicated to quantum physics.
         </p>
-        <p><a class="btn btn-default" href=/Install_guide>Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href=/TheorPage>Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
         <h2>Solving compatibility issues</h2>
