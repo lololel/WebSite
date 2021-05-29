@@ -1,11 +1,11 @@
 % rebase('layout.tpl', title='Home Page')
-<img src= "static\image\Anomaly_1.5.1_logo.png">
+<img src= "static\image\atat2.png">
 <div class="row">
     <div class="col-md-4">
-        <h2>Learn how to install mods</h2>
-        <img src= "static\image\ggg.png">
+        <h2>Learn more about quantum physics</h2>
+        <img src= "static\image\auqntum.png">
         <p>
-            Guide on how to properly install addons and make your modding experience better.
+           This site is dedicated to quantum physics.
         </p>
         <p><a class="btn btn-default" href=/Install_guide>Learn more &raquo;</a></p>
     </div>
