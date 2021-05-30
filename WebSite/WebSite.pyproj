@@ -51,7 +51,12 @@
     <Content Include="static\image\atat.png" />
     <Content Include="static\image\atat2.png" />
     <Content Include="static\image\auqntum.png" />
+    <Content Include="static\image\COOL.jpg" />
+    <Content Include="static\image\darken.jpg" />
+    <Content Include="static\image\field3.jpg" />
     <Content Include="static\image\qunt.PNG" />
+    <Content Include="static\image\Quntpic.jpg" />
+    <Content Include="static\image\Standart.png" />
     <Content Include="static\scripts\bootstrap.js" />
     <Content Include="static\scripts\bootstrap.min.js" />
     <Content Include="static\scripts\jquery-1.10.2.intellisense.js" />
