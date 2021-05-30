@@ -18,6 +18,8 @@
     <SuppressCollectPythonCloudServiceFiles>true</SuppressCollectPythonCloudServiceFiles>
     <Name>WebSite</Name>
     <RootNamespace>WebSite</RootNamespace>
+    <WebBrowserPort>
+    </WebBrowserPort>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>

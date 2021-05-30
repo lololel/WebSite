@@ -42,3 +42,10 @@ Such quantum powers are completely foreign to us, yet are the basis of emerging 
 
 Meanwhile cosmological measurements indicate that over 95 per cent of the universe consists of dark matter and dark energy, stuffs for which we currently have no explanation within the standard model, and conundrums such as the extent of the role of quantum physics in the messy workings of life remain unexplained. The world is at some level quantum – but whether quantum physics is the last word about the world remains an open question.
 </p>
+
+<h3> Ask a Question </h3>
+<form action="/home" method="post">
+        <p><textarea rows="2" cols="50" name="QUEST" placeholder="Your question"></textarea></p> 
+        <p><input type="text" size="50" name="ADRESS" placeholder="Your email"></p>
+        <p><input type="submit" value="Send"></p>
+</form>
