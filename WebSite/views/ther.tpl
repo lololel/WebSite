@@ -49,3 +49,11 @@ Meanwhile cosmological measurements indicate that over 95 per cent of the univer
         <p><input type="text" size="50" name="ADRESS" placeholder="Your email"></p>
         <p><input type="submit" value="Send"></p>
 </form>
+
+
+<h3> Please leave here your review </h3>
+<form action="/pot" method="post">
+        <p><textarea rows="2" cols="50" name="REW" placeholder="Your review"></textarea></p> 
+        <p><input type="submit" value="Send"></p>
+</form>
+

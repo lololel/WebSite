@@ -37,6 +37,9 @@
     <Compile Include="myforms1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="review.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="routes.py" />
     <Compile Include="test_1.py">
       <SubType>Code</SubType>
@@ -88,6 +91,7 @@
     <Content Include="static\scripts\_references.js" />
     <Content Include="views\about.tpl" />
     <Content Include="views\contact.tpl" />
+    <Content Include="views\review.tpl" />
     <Content Include="views\ther.tpl" />
     <Content Include="views\index.tpl" />
     <Content Include="views\layout.tpl" />
